@@ -1,0 +1,5 @@
+com.android.chrome
+com.google.android.youtube
+com.android.vending
+com.sec.android.app.samsungapps
+org.telegram.messenger
