@@ -3,3 +3,7 @@ com.google.android.youtube
 com.android.vending
 com.sec.android.app.samsungapps
 org.telegram.messenger
+com.facebook.katana
+org.mozilla.firefox
+com.zhiliaoapp.musically
+com.google.android.googlequicksearchbox
