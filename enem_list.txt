@@ -2,7 +2,6 @@ com.android.chrome
 com.google.android.youtube
 com.android.vending
 com.sec.android.app.samsungapps
-org.telegram.messenger
 com.facebook.katana
 org.mozilla.firefox
 com.zhiliaoapp.musically
@@ -13,5 +12,4 @@ om.microsoft.copilot
 com.microsoft.sapphire.app.main.SapphireMainActivity
 et.jiji.app
 ng.jiji.app.ui.splash.SplashActivity
-com.google.android.packageinstaller
 com.netflix.mediaclient
