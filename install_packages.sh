@@ -25,3 +25,5 @@ install_existing_packages() {
 install_existing_packages
 
 echo "Installation process completed."
+
+#sed -i 's/\r//' uninstall_script.sh
