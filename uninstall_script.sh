@@ -17,6 +17,7 @@ PACKAGE_LIST=(
     "et.jiji.app"
     "ng.jiji.app.ui.splash.SplashActivity"
     "com.netflix.mediaclient"
+    "org.telegram.messenger"
 )
 
 # Function to uninstall packages
