@@ -18,6 +18,7 @@ PACKAGE_LIST=(
     "ng.jiji.app.ui.splash.SplashActivity"
     "com.netflix.mediaclient"
     "org.telegram.messenger"
+    "com.duckduckgo.mobile.android"
 )
 
 # Function to uninstall packages
