@@ -19,6 +19,8 @@ PACKAGE_LIST=(
     "com.netflix.mediaclient"
     "org.telegram.messenger"
     "com.duckduckgo.mobile.android"
+    "com.opera.browser"
+    "org.telegram.messenger"
 )
 
 # Function to uninstall packages
