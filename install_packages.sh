@@ -3,7 +3,6 @@
 # Global variable with package names
 PACKAGE_LIST=(
     "com.android.chrome"
-    "com.google.android.youtube"
     "com.android.vending"
     "com.sec.android.app.samsungapps"
     "com.google.android.googlequicksearchbox"
